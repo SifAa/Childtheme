@@ -1,0 +1,29 @@
+/* 
+Theme Name:		 Fotografie child theme
+Theme URI:		 http://www.websitebundles.com/
+Description:	 Theme by Site <a href=\"http://childthemegenerator.com/\">http://childthemegenerator.com/</a>
+Author:			 WebsiteBundles
+Author URI:		 http://childthemegenerator.com/
+Template:		 fotografie
+Version:		 1.0.0
+Text Domain:	 Fotografie-child
+-------------------------------------------------------------- */ 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+#masthead {
+    background-color: #351e49;
+}
+.mobile-search-wrapper .search-field {
+    background-color: #3b2354;
+	}
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background: #351e49;
+	}
+#scrollup {
+    background: #351e49;
+	}
+.site-footer {
+    background-color: #351e49;
+	}
